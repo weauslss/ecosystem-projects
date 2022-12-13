@@ -1,0 +1,12 @@
+{
+	"name": "Tabla",
+	"slug": "tabla",
+	"date": "2022-12-09",
+	"highlight": "Tabla is a capitalization table management software for companies and funds, which is built on blockchain.",
+	"logo": "/img/tabla.png",
+	"tags": ["digital securities", "funds", "wealth management", "wallet"],
+	"status": "live",
+	"website": "https://www.tabla.is/",
+  "twitter": "",
+	"summary": "Tabla is a capitalization table management software for companies and funds, which is built on blockchain. It allows different organizations to issue tokenized shares and sell them through multiple crypto exchanges. This way, businesses can launch private and public sales, raise funds, track their capital structure and boost asset liquidity. Tokenized shares are a digital representation of traditional shares. With the help of blockchain technology, stocks are issued in digital form and become much easier to sell and transfer."
+}

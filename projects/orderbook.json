@@ -1,0 +1,12 @@
+{
+	"name": "Orderbook",
+	"slug": "orderbook",
+	"date": "2022-12-09",
+	"highlight": "Orderbook is a globally compliant solution for investor accreditation and token purchases. All the functionality you need including, pre-registration of accredited investors, KYC, AML, and purchases in BTC, ETH and USD wire transfers.",
+	"logo": "/img/orderbook.png",
+	"tags": ["defi", "digital securities", "trading"],
+	"status": "live",
+	"website": "https://www.orderbook.io/",
+  "twitter": "https://twitter.com/orderbook_io",
+	"summary": "Orderbook provides access to tokenized stocks of multiple global companies in the Pre-IPO and Growth stages, including such well-known projects as SpaceX, Patreon, and AirBnB. This way, the platform democratizes access to the private equity market and provides retail investors with access to stocks that were previously only available to large institutional investors."
+}
